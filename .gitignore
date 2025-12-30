@@ -1,0 +1,6 @@
+__pycache__/
+models/
+input_videos/
+worker_env/
+config.properties
+requirements.txt
