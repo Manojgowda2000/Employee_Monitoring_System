@@ -4,3 +4,11 @@ input_videos/
 worker_env/
 config.properties
 requirements.txt
+utils/
+cam_worker.py
+face_recognizer.py
+inference.py
+main.py
+person_features.py
+productivity_tracker.py
+viewer.py
