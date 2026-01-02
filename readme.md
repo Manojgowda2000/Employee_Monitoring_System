@@ -5,7 +5,10 @@ An **end-to-end real-time worker monitoring and productivity analytics system** 
 The system identifies workers, tracks them across frames and cameras, classifies postures and activities, and computes **accurate active vs idle working time** using **real elapsed time (not frame counting)**.  
 It is designed for **industrial environments**, **warehouse floors**, and **manufacturing units**.
 
+<img width="1536" height="1024" alt="thumbnail" src="https://github.com/user-attachments/assets/23c8acec-6880-4271-9546-5afedfe686ba" />
+
 ---
+
 
 ## 🚀 Key Capabilities
 
@@ -29,6 +32,7 @@ It is designed for **industrial environments**, **warehouse floors**, and **manu
 ---
 
 ## 🧠 System Architecture Overview
+<img width="1536" height="1024" alt="2_suvi_architecture_diagram" src="https://github.com/user-attachments/assets/b9c78e09-deb8-4ffc-bcf3-71e600f4fe55" />
 
 ---
 
